@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba, del Prepcourse Henry
+Este es un proyecto de como crear un repositorio en la nube, clonarlo y luego volverlo a subir
